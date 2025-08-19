@@ -1,3 +1,8 @@
+
+![Game Screenshot](https://github.com/badawy20oct/TicTacToe_React/blob/e1bbdac435a080746a6bcae525d4e3e68ff41125/image.png
+)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
